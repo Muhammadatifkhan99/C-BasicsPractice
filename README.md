@@ -17,7 +17,7 @@ g++ hello_world.cpp -o hello_world
 
 
 ### Program List
-`hello_world.cpp`: A simple "Hello, world!" program.
+`Object Oriented Programming`: Basics practice of the OOPs concepts in C++.
 
 `data_types.cpp`: Demonstrates the use of different data types in C++, such as int, double, and bool.
 
